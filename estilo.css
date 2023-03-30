@@ -1,0 +1,44 @@
+div{
+    width: 100;
+    height: 100;
+    color: red;
+    background-color: aqua;
+}
+li:hover {
+    color: orange;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;;
+    font-size: 50;
+    width: 150;
+    height: 150;
+    color:#000;
+    background-color:gray;
+}
+ul{
+    
+    list-style:decimal;
+
+    
+}
+
+.Login-color-naranja{
+    color:coral;
+    
+}
+
+li{
+    
+    display:inline-block; 
+    
+}
+
+a{
+    text-decoration:none;
+    color: #000;
+}
+
+
+
+
